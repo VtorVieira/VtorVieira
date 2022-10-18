@@ -1,5 +1,11 @@
 ## Vitor Vieira
 
+Tenho experiência em suporte de sistemas, onde atuei com análise, JavaScript, HTML e SQL. Devido a vivência na área decidi me aprofundar em Desenvolvimento Web. 
+
+Atualmente estudo na Trybe, uma escola que ensina a programar, a aprender e a trabalhar em equipe. A formação aborda fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+
+Hoje busco uma oportunidade na área de Desenvolvimento para colocar em prática meus conhecimentos e conseguir me desenvolver e aprender muito mais contribuindo com a organização.
+
 <div align="center">
   <a href="https://github.com/vtorvieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VtorVieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
