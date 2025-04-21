@@ -6,7 +6,7 @@ Atualmente, atuo com um conjunto abrangente de tecnologias, incluindo Node.js, E
 
 Estou em busca de desafios que explorem meu conhecimento técnico e habilidades criativas, contribuindo com meu entusiasmo pelo desenvolvimento de software.
 
-GitHub: https://github.com/VtorVieira
+GitHub: https://github.com/VtorVieira<br>
 Email: vieira.vitor42@gmail.com
 
 <div align="center">
