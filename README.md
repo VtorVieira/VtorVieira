@@ -1,10 +1,13 @@
 ## Vitor Vieira
 
-Tenho experiência em suporte de sistemas, onde atuei com análise, JavaScript, HTML e SQL. Devido a vivência na área decidi me aprofundar em Desenvolvimento Web. 
+Com uma base sólida em suporte de sistemas, onde atuei em análise, JavaScript, HTML e SQL,evolui minha carreira para me tornar um Desenvolvedor Full Stack com ênfase em backend, apreciando a interação com o frontend.
 
-Atualmente estudo na Trybe, uma escola que ensina a programar, a aprender e a trabalhar em equipe. A formação aborda fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+Atualmente, atuo com um conjunto abrangente de tecnologias, incluindo Node.js, Express, Prisma, TypeOrm Sequelize, SQL Server, MySQL, PostgreSQL, TypeScript, JavaScript, React, ContextAPI, HTML5, CSS3 e Google Cloud Platform (GCP). Essa diversidade de habilidades me permite abordar projetos de forma abrangente, da construção robusta do backend à criação de interfaces intuitivas no frontend.
 
-Hoje busco uma oportunidade na área de Desenvolvimento para colocar em prática meus conhecimentos e conseguir me desenvolver e aprender muito mais contribuindo com a organização.
+Estou em busca de desafios que explorem meu conhecimento técnico e habilidades criativas, contribuindo com meu entusiasmo pelo desenvolvimento de software.
+
+GitHub: https://github.com/VtorVieira
+Email: vieira.vitor42@gmail.com
 
 <div align="center">
   <a href="https://github.com/vtorvieira">
